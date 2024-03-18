@@ -3,7 +3,7 @@
 
 &nbsp;
 
-### MR Results
+## MR Results
 
 | PA on Proteins      | Proteins on PA      |
 | ----------------    | ------------------  |
