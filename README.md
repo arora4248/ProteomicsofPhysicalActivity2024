@@ -7,7 +7,7 @@
 &nbsp;
 
 &nbsp;
-MR results are available under MR assosc
+MR results are available in MR assocs
 
 
 | PA on Proteins      | Proteins on PA      |
