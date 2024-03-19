@@ -4,7 +4,7 @@
 &nbsp;
 
 ## MR Results
-#### MR results are available under MR assosc
+MR results are available under MR assosc
 &nbsp;
 &nbsp;
 
