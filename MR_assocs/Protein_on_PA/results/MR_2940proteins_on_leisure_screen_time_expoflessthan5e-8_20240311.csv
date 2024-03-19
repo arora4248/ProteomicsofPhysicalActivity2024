@@ -1,4 +1,4 @@
-file_name,exposure,outcome,method,nsnp,b,se,pval,P
+file_name,exposure,outcome,method,nsnp,b,se,pval,-Log10P
 LRPAP1_P30533_OID21059_v1_Neurology.txt,LRPAP1,leisure_screen_time,Inverse variance weighted,79,-0.000920266381576004,0.00118574387039473,0.437684683859939,0.35883865062585
 CEACAM1_P13688_OID21528_v1_Oncology.txt,CEACAM1,leisure_screen_time,Inverse variance weighted,33,-0.00120642240727184,0.00127928406445983,0.345657899411692,0.461353513621106
 LRP1_Q07954_OID21293_v1_Oncology.txt,LRP1,leisure_screen_time,Inverse variance weighted,93,0.000195385417698289,0.0013080892539714,0.881264019549074,0.0548939609913294
