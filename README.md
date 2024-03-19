@@ -4,6 +4,7 @@
 &nbsp;
 
 ## MR Results
+#### MR results are available under MR assosc
 
 | PA on Proteins      | Proteins on PA      |
 | ----------------    | ------------------  |
