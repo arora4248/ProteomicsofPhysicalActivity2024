@@ -1,5 +1,5 @@
 # ProteomicsofPhysicalActivity2024
-The links below provide access to volcano plots based on our results that were prepared using VolcaNoseR shiny App [citation]
+The links below provide access to volcano plots for our results prepared using VolcaNoseR shiny App [citation]
 &nbsp;
 
 &nbsp;
