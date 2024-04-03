@@ -37,6 +37,6 @@ MR results are available in MR assocs
 | [MVPA]()                | MVPA                | MVPA |
 | [Acc-Avg]()             | Acc-Avg             | Acc-Avg |
 | [Acc-425]()             | Acc-425             | Acc-425 |
-| [MVPA leisure time]()   | MVPA lesiure time   | MVPA leisure time |
-| [Leisure screen time]()| Leisure screen time | Leisure screen time |
+| [Acc-Sed]()   | Acc_Sed   | Acc-Sed |
+
 
