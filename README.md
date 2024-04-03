@@ -30,13 +30,13 @@ MR results are available in MR assocs
 
 &nbsp;
 
-| PA on Proteins      | Proteins on PA      | cis-Proteins on PA |
-| :---------------    | :-----------------  | :----------------- |
-| [SSOE]()                | [SSOE]()                | SSOE |
-| [VPA]()                 | VPA                 | VPA |
-| [MVPA]()                | MVPA                | MVPA |
-| [Acc-Avg]()             | Acc-Avg             | Acc-Avg |
-| [Acc-425]()             | Acc-425             | Acc-425 |
-| [Acc-Sed]()   | Acc-Sed   | Acc-Sed |
+| PA on Proteins      | 
+| :---------------    | 
+| [SSOE]()                | 
+| [VPA]()                 | 
+| [MVPA]()                | 
+| [Acc-Avg]()             | 
+| [Acc-425]()             | 
+| [Acc-Sed]()   | 
 
 
