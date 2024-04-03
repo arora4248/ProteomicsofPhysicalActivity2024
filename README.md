@@ -37,6 +37,6 @@ MR results are available in MR assocs
 | [MVPA]()                | MVPA                | MVPA |
 | [Acc-Avg]()             | Acc-Avg             | Acc-Avg |
 | [Acc-425]()             | Acc-425             | Acc-425 |
-| [Acc-Sed]()   | Acc_Sed   | Acc-Sed |
+| [Acc-Sed]()   | Acc-Sed   | Acc-Sed |
 
 
