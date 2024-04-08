@@ -34,7 +34,7 @@ MR results are available in MR assocs
 | :---------------    | 
 | [SSOE](https://goedhart.shinyapps.io:/VolcaNoseR/?data=5;;beta;X_Log10P;protein&vis=4;0.8;0,0;2;significant;fc&can=10;TRUE;;&layout=;;TRUE;-0.5,0.5;0,325;X;600;800&color=1;none&label=TRUE;SSOE;TRUE;Beta-Coeffcient;-Log10P;;24;24;18;6;TRUE&url=https://raw.githubusercontent.com/klimentidis-lab/ProteomicsofPhysicalActivity2024/main/Pheno_assocs/results/Proteomics_and_SSOE_Model3_20240403.csv)                | 
 | [VPA](https://goedhart.shinyapps.io:/VolcaNoseR/?data=5;;beta;X_Log10P;protein&vis=4;0.8;0,0;2;significant;fc&can=10;TRUE;;&layout=;;TRUE;-0.75,0.75;0,225;X;600;800&color=1;none&label=TRUE;VPA;TRUE;Beta-Coeffcient;-Log10P;;24;24;18;6;TRUE&url=https://raw.githubusercontent.com/klimentidis-lab/ProteomicsofPhysicalActivity2024/main/Pheno_assocs/results/Proteomics_and_VPA_Model3_20240403.csv)                 | 
-| [MVPA]()                | 
+| [MVPA](https://goedhart.shinyapps.io:/VolcaNoseR/?data=5;;beta;X_Log10P;protein&vis=4;0.8;0,0;2;significant;fc&can=10;TRUE;;&layout=;;TRUE;-0.5,0.5;0,175;X;600;800&color=1;none&label=TRUE;MVPA;TRUE;Beta-Coeffcient;-Log10P;;24;24;18;6;TRUE&url=https://raw.githubusercontent.com/klimentidis-lab/ProteomicsofPhysicalActivity2024/main/Pheno_assocs/results/Proteomics_and_MVPA_Model3_20240403.csv)                | 
 | [Acc-Avg]()             | 
 | [Acc-425]()             | 
 | [Acc-Sed]()   | 
