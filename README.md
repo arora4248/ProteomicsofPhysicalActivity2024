@@ -29,6 +29,8 @@ MR results are available in MR assocs
 &nbsp;
 
 &nbsp;
+Phenotype association results are available in Phenotype assocs
+
 
 | PA on Proteins      | 
 | :---------------    | 
