@@ -1,4 +1,4 @@
-coding,beta,se,pvalue,n,outlier_count,outlier_pvalue,heteroscedasticity_pvalue,protein,#NAME?
+coding,beta,se,pvalue,n,outlier_count,outlier_pvalue,heteroscedasticity_pvalue,protein,-LOG10P
 1,0.007982648,0.004828542,0.098324002,8254,2,0.001114113,0.020457689,A1BG,1.007340452
 2,0.001396501,0.005146376,0.786124162,8024,1,0.152738592,0.047930508,AAMDC,0.104508855
 3,0.013737894,0.005369963,0.01053456,9397,1,1.308461893,0.002327709,AARSD1,1.977383602
