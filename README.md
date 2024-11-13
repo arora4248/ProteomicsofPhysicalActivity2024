@@ -1,5 +1,5 @@
 # ProteomicsofPhysicalActivity2024
-The links below provide access to volcano plots for our results prepared using VolcaNoseR shiny App [citation]
+The links below provide access to volcano plots for our results prepared using VolcaNoseR shiny App by Goedhart et al.
 
 Goedhart, J., & Luijsterburg, M. S. (2020). VolcaNoseR is a web app for creating, exploring, labeling and sharing volcano plots. Scientific reports, 10(1), 20560.
 &nbsp;
