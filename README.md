@@ -43,4 +43,36 @@ Phenotype association results are available in Phenotype assocs
 | [Acc-425](https://goedhart.shinyapps.io:/VolcaNoseR/?data=5;;beta;X_LOG10P;protein&vis=4;0.8;0,0;2;significant;fc&can=10;TRUE;;&layout=;;TRUE;-0.7,0.7;0,30;X;600;800&color=1;none&label=TRUE;Acceleration_425;TRUE;Beta-Coeffcient;-Log10P;;24;24;18;6;TRUE&url=https://raw.githubusercontent.com/klimentidis-lab/ProteomicsofPhysicalActivity2024/refs/heads/main/Pheno_assocs/results/Proteomics_and_Acc425_Model3_202408.csv)             | 
 | [Acc-Sed](https://goedhart.shinyapps.io:/VolcaNoseR/?data=5;;beta;X_LOG10P;protein&vis=4;0.8;0,0;2;significant;fc&can=10;TRUE;;&layout=;;TRUE;-0.1,0.1;0,30;X;600;800&color=1;none&label=TRUE;Acceleration_Sedentary;TRUE;Beta-Coeffcient;-Log10P;;24;24;18;6;TRUE&url=https://raw.githubusercontent.com/klimentidis-lab/ProteomicsofPhysicalActivity2024/refs/heads/main/Pheno_assocs/results/Proteomics_and_AccSed_Model3_202408.csv)   | 
 
+&nbsp;
+
+## Supplementary Tables
+&nbsp;
+&nbsp;
+| Tables      | Title      | 
+| :------     | :--------  | 
+| [Supplementary Table 1] | BaselineUKB-PPP Socio-Demographic Characteristics of the Study Cohort (N = 50,417) |
+| [Supplementary Table 2] | Physical Activity Characteristics of the UKB-PPP Cohort |
+| [Supplementary Table 3] | Proteins (n = 1,027) Associated with at Least One of the PA Measures |
+| [Supplementary Table 4] | Proteins (n = 41) Associated with all PA Measures |
+| [Supplementary Table 5] | Proteins (n = 645) Associated with Moderate to Vigorous Physical Activity |
+| [Supplementary Table 6] | Proteins (n = 670) Associated with Vigorous Physical Activity |
+| [Supplementary Table 7] | Proteins (n = 670) Associated with Strenuous Sports or Other Exercise |
+| [Supplementary Table 8] | Proteins (n = 102) Associated with Average Acceleration  |
+| [Supplementary Table 9] | Proteins (n = 611) associated with Acceleration Fraction > 425 milligravities |
+| [Supplementary Table 10] | Proteins (n = 102) Associated with Acceleration Sedentary  |
+| [Supplementary Table 11] | Physical Activity Measure Specific Pathway Enrichment  |
+| [Supplementary Table 12] | Pathway Enrichment among Proteins Associated with at Least One PA Measure  |
+| [Supplementary Table 13] | Comparision of Results from Moderate to Vigorous Physical Activity Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-8 ) |
+| [Supplementary Table 14] | Comparision of Results from Moderate to Vigorous Physical Activity Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-6 ) |
+| [Supplementary Table 15] | Comparision of Results from Vigorous Physical Activity Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-8 ) |
+| [Supplementary Table 16] | Comparision of Results from Strenuous Sports and Other Exercise Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-8) |
+| [Supplementary Table 17] | Comparision of Results from Strenuous Sports and Other Exercise Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-6 )) |
+| [Supplementary Table 18] | Comparision of Results from Acceleration Average Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-8 ) |
+| [Supplementary Table 19] | Comparision of Results from  Acceleration Average Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-6 ) |
+| [Supplementary Table 20] | Comparision of Results from  Acceleration Fraction > 425 milligravities Phenotypic Association and Results from Mendelian Randomization (GWAS SNP P value < 5E-6 )  |
+| [Supplementary Table 21] | Comparing Consistency in the Significant MR Results(5E-8) of Proteins Associated with all PA Measures in the Phenotypic Associations (n = 41) |
+| [Supplementary Table 22] | Comparing Consistency in the Significant MR Results(5E-6) of Proteins Associated with all PA Measures in the Phenotypic Associations (n = 41) |
+| [Supplementary Table 23] | Pair-wise PA Measure and Protein Colocalization Results (Posterior Probability > 0.80) |
+| [Supplementary Table 24] | Sample Sizes for 4-Way Decomposition Analyses of 1,027 Proteins |
+| [Supplementary Table 25] | PA Measure-Specific Significant Proteins from the 4-way Decomposition (Mediation & Interaction) Analyses  |
 
