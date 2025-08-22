@@ -1,7 +1,6 @@
-# Arani_et_al_proteomics_of_physical_activity
+# Arani_et_al_proteomics_of_physical_activity [medRxiv link](https://www.medrxiv.org/content/10.1101/2025.01.16.25320290v2)
 The links below provide access to volcano plots for our results prepared using VolcaNoseR shiny App by Goedhart et al.
 
-The medRxiv link to the artcile is [here](https://www.medrxiv.org/content/10.1101/2025.01.16.25320290v2)
 
 Goedhart, J., & Luijsterburg, M. S. (2020). VolcaNoseR is a web app for creating, exploring, labeling and sharing volcano plots. Scientific reports, 10(1), 20560.
 &nbsp;
