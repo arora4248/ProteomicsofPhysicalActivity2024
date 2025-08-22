@@ -1,4 +1,4 @@
-# Arani_et_al_proteomics_of_physical_activity - [(medRxiv link)]https://www.medrxiv.org/content/10.1101/2025.01.16.25320290v2)
+# Arani_et_al_proteomics_of_physical_activity - [(medRxiv link)](https://www.medrxiv.org/content/10.1101/2025.01.16.25320290v2)
 The links below provide access to volcano plots for our results prepared using VolcaNoseR shiny App by Goedhart et al.
 
 
