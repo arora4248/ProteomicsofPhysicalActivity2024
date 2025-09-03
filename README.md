@@ -1,5 +1,5 @@
 # Arani_et_al_proteomics_of_physical_activity 
-medRxiv link to publication is [here](https://www.medrxiv.org/content/10.1101/2025.01.16.25320290v2). The links below provide access to volcano plots based on MR results prepared using VolcaNoseR shiny App by Goedhart et al. The harmonized files used for the MR analysis are available [here](https://zenodo.org/uploads/16859070)
+medRxiv link to publication is [here](https://www.medrxiv.org/content/10.1101/2025.01.16.25320290v2). The links below provide access to volcano plots based on MR results prepared using VolcaNoseR shiny App by Goedhart et al. The harmonized files used for the MR analysis are available [here](https://zenodo.org/records/16923652).
 
 
 Goedhart, J., & Luijsterburg, M. S. (2020). VolcaNoseR is a web app for creating, exploring, labeling and sharing volcano plots. Scientific reports, 10(1), 20560.
