@@ -1,0 +1,18 @@
+derived_var,source_fields,rule_or_code
+TwoplusdaysSS,"f.991.0.0, f.1001.0.0",>=4 days AND duration category > 1; -3/-1 -> NA
+TwoplusdaysOther,"f.3637.0.0, f.3647.0.0",>=4 days AND duration category > 1; -3/-1 -> NA
+StrenorOther,TwoplusdaysSS/TwoplusdaysOther + f.864.0.0,1 if SS or Other meets threshold; NA if f.864==-2
+VigPA_Minsperweek,"f.904.0.0, f.914.0.0",days * duration; duration >960 -> NA; >=180 cap; 0 days -> 0
+ModPA_Minsperweek,"f.884.0.0, f.894.0.0",days * duration; duration >960 -> NA; >=180 cap; 0 days -> 0
+MVPA,"ModPA_Minsperweek, VigPA_Minsperweek",MVPA = 4*Moderate + 8*Vigorous; NA if f.864==-2
+InvNorm_MVPA,MVPA,Rank-based inverse normal transform
+VigPA_Dich2,"f.904.0.0, f.914.0.0",1 if >=3 days & duration >=25; 0 if 0 days; NA if f.864==-2 or duration>960
+AGE_atAccel,"f.53.0.0, f.90010.0.0, f.21003.0.0",Age at accelerometer wear date
+Season/Season1,f.55.0.0 / month(f.90010.0.0),Month bucketed into 0/1/2 seasons
+Accel_Ave_DQexcl,"f.90012.0.0, f.90015.0.0, f.864.0.0",Set NA if f.90015==0 or f.864==-2
+Accel_Ave_DQexcl_minus46outliers,Accel_Ave_DQexcl,Set NA if > mean + 4*SD
+Accel_425_DQexcl,"f.90140.0.0, f.90015.0.0",Set NA if f.90015==0
+Accel_425_DQexcl_minus465outliers,Accel_425_DQexcl,Set NA if < mean - 4*SD
+OneMinus_Accel_425...,Accel_425_DQexcl_minus465outliers,1 - value
+InvNorm_Accel425,OneMinus_Accel_425...,Rank-based inverse normal transform
+Acc_sed / Acc_sed_minus46outliers,aveSed + f.90015.0.0 + f.864.0.0,Sedentary measure; quality filter; NA if outside mean±4SD
