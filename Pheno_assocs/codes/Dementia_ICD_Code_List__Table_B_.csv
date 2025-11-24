@@ -1,0 +1,16 @@
+system,code,description
+ICD-10,F00,Dementia in Alzheimer's disease
+ICD-10,F01,Vascular dementia
+ICD-10,F02,Dementia in other diseases classified elsewhere
+ICD-10,F03,Unspecified dementia
+ICD-10,G30,Alzheimer's disease
+ICD-10,F05.1,Delirium superimposed on dementia (often excluded in strict AD definitions)
+ICD-10,G31.1,"Senile degeneration of brain, not elsewhere classified"
+ICD-10,G31.8,Other specified degenerative diseases of nervous system
+ICD-9,290.2,Senile dementia
+ICD-9,290.3,Senile dementia with delusional or depressive features
+ICD-9,290.4,Vascular dementia
+ICD-9,331.0,Alzheimer's disease
+ICD-9,331.1,Pick's disease
+ICD-9,331.2,Senile degeneration of brain
+ICD-9,331.5,Degeneration of basal ganglia

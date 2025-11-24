@@ -1,0 +1,24 @@
+field_id,showcase_id,official_title,notes
+53,f.53.0.0,Date of attending assessment centre,Baseline date used to compute age at accelerometer
+55,f.55.0.0,Month of attending assessment centre,Binned to Season (0/1/2)
+21003,f.21003.0.0,Age at recruitment,Used to compute AGE_atAccel
+21000,f.21000.0.0,Ethnic background,Re-coded to race categories
+20116,f.20116.0.0,Smoking status,Factor-coded 0/1/2
+1558,f.1558.0.0,Alcohol intake frequency,Mapped to weekly-equivalent numeric scale
+23099,f.23099.0.0,Body fat percentage,Renamed bodyfat; outlier checks
+6138,f.6138.0.0,Qualifications,Binary education (1 vs 0) with -3 as NA
+864,f.864.0.0,Number of days/week walked 10+ minutes,Also encodes 'unable to walk' (-2) used for exclusions
+874,f.874.0.0,Duration of walks,Used with 864 to form weekly walking minutes
+884,f.884.0.0,Number of days/week of moderate physical activity 10+ minutes,With 894 to form ModPA
+894,f.894.0.0,Duration of moderate activity,Cap >=180; >960 set NA
+904,f.904.0.0,Number of days/week of vigorous physical activity 10+ minutes,With 914 to form VigPA
+914,f.914.0.0,Duration of vigorous activity,Cap >=180; >960 set NA; 0 days -> 0
+924,f.924.0.0,Usual walking pace,Optional PA-related covariate
+991,f.991.0.0,Days of strenuous sports,With 1001 for TwoplusdaysSS; -3/-1 -> NA
+1001,f.1001.0.0,Duration of strenuous sports,Used with 991
+3637,f.3637.0.0,Days of other exercises,With 3647 for TwoplusdaysOther; -3/-1 -> NA
+3647,f.3647.0.0,Duration of other exercises,Used with 3637
+90010,f.90010.0.0,Start time of wear,Used for MonthAccel/Season1 and age at wear
+90012,f.90012.0.0,Overall acceleration average,Primary device-based PA exposure
+90015,f.90015.0.0,"Data quality, good wear time",0 => exclude accelerometer summaries
+90140,f.90140.0.0,Accelerometer-derived summary ('425' metric),Used to build InvNorm_Accel425
